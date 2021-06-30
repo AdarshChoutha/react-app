@@ -2,6 +2,14 @@
 
 This is a simple html page developed using React.
 
+# main
+
+It is the main branch containing all the code
+
+# gh-pages
+
+It is gh-pages branch the react-app is hosted at https://adarshchoutha.github.io/react-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
